@@ -2,7 +2,7 @@ package Projekt;
 
 import javax.swing.*;
 
-public class BurgerLadenForm {
+public class  BurgerLadenForm {
     private JPanel frame;
     private JPanel mainPanel;
     private JLabel bunLabel;
